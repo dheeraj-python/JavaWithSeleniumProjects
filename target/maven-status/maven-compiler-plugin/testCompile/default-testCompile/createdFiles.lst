@@ -1,0 +1,9 @@
+com\api\base\BaseService.class
+com\api\models\request\LoginRequest.class
+com\api\models\request\SignupRequest$Builder.class
+com\api\models\request\SignupRequest.class
+com\api\test\ForgetPasswordTest.class
+com\api\test\UserAccountCreationTest.class
+com\api\base\UserAuthService.class
+com\api\models\response\LoginResponse.class
+com\api\test\UserLoginTest.class
